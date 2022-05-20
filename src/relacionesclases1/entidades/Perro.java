@@ -8,6 +8,7 @@ public class Perro {
     private String raza;
     private Integer edad;
     private Integer tamanio;
+    private Integer juan;
 
     public Perro() {
     }
