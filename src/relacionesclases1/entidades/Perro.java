@@ -9,6 +9,7 @@ public class Perro {
     private Integer edad;
     private Integer tamanio;
     private Integer juan;
+    private Integer atrib2;
 
     public Perro() {
     }
